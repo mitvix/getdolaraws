@@ -57,4 +57,4 @@ Argumentos:
 
 * _IMPORTANTE Programar é uma arte, um passa tempo e faço por hobby, não sou programador profissional e não pretendo ser. Se der em algum momento atualizo para usar a Standard Lib ou um pacote nativo para não depender do pdftotext, mas funciona tão bem... que passa ;-)_
 
-Manfrin <mitvix@hotmail.com>
+AlexM. <mitvix@hotmail.com>
